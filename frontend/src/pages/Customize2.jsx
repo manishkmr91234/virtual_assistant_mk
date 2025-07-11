@@ -20,8 +20,7 @@ function Customize2() {
                 formData.append("imageUrl",selectedImage)
             }
             const result=await axios.post(`${serverUrl}/api/user/update`,formData,{withCredentials:true})
-setLoading(false)
-            console.log(result.data)
+            setLoading(false)
             setUserData(result.data)
             navigate("/")
         } catch (error) {
