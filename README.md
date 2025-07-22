@@ -8,9 +8,9 @@ An AI-powered virtual assistant web app built with the MERN stack that enables u
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-[🔗 Live Link](#) https://virtual-assistant-t8z6.onrender.com/signup
+ Live Link: https://virtual-assistant-t8z6.onrender.com/signup
 
 ---
 
@@ -20,7 +20,7 @@ An AI-powered virtual assistant web app built with the MERN stack that enables u
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
-- **AI Integration:** Gemini API (or OpenAI API)
+- **AI Integration:** Gemini API 
 - **State Management:** React Context API, Custom Hooks
 
 
@@ -28,14 +28,14 @@ An AI-powered virtual assistant web app built with the MERN stack that enables u
 
 ## ✨ Features
 
- Real-time **voice-to-text input** using Web Speech API
- AI-generated voice responses** using SpeechSynthesis API
- Intelligent replies powered by **Gemini AI integration**
- **JWT Authentication** with protected routes and sessions
- **MongoDB** for storing user data and assistant message history
- Fully **responsive UI** designed with Tailwind CSS
- Global state management using **React Context API + custom hooks**
 
+- 🎙️ Real-time **voice-to-text input** using Web Speech API
+- 🔊 **AI-generated voice responses** using SpeechSynthesis API
+- 🤖 Intelligent replies powered by **Gemini AI integration**
+- 🔐 **JWT Authentication** with protected routes and sessions
+- 🗂️ **MongoDB** for storing user data and assistant message history
+- 📱 Fully **responsive UI** designed with Tailwind CSS
+- ♻️ Global state management using **React Context API + custom hooks**
 ---
 
 ## 🚀 Getting Started
