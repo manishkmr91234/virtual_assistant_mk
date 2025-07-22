@@ -4,7 +4,7 @@
 
 # Virtual Assistant (Full Stack Web)
 
-An AI-powered virtual assistant web app built with the MERN stack that enables users to interact with an intelligent assistant using real-time voice input and output. The assistant processes speech using browser APIs and responds with intelligent replies via Gemini API.
+A full-stack AI Virtual Assistant platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to create and interact with their own personalized assistants. It features real-time voice input/output using the Web Speech API, intelligent responses powered by Gemini AI, secure JWT authentication, and a fully responsive UI built with Tailwind CSS.
 
 ---
 
